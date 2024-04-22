@@ -1,5 +1,5 @@
 # study
-Purpose
+### Purpose
 The purpose of this project is to develop a predictive model for stock prices, specifically focusing on the energy sector represented by the ticker symbol "XLE." By analyzing historical data and employing machine learning algorithms, the project endeavors to forecast future price movements, aiding investors in making informed decisions.
 Features
 
